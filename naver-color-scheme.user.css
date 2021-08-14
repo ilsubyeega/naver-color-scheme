@@ -1,0 +1,33 @@
+/* ==UserStyle==
+@name           naver-color-scheme
+@namespace      github.com/ilsubyeega/naver-color-scheme
+@version        2021081401
+@description    dark color-scheme for naver (with DarkenPages/Naver)
+@author         ilsubyeega
+==/UserStyle== */
+
+@-moz-document url-prefix("https://news.naver.com"),
+url-prefix("https://blog.naver.com"),
+url-prefix("https://guestbook.blog.naver.com"),
+url-prefix("https://admin.blog.naver.com"),
+url-prefix("https://cafe.naver.com"),
+url-prefix("https://mail.naver.com"),
+url-prefix("https://section.cafe.naver.com"),
+url-prefix("https://naver.com"),
+url-prefix("https://www.naver.com") {
+     :root {
+        color-scheme: dark;
+    }
+    /* 버그 */
+    #gnb_svc_more_iframe,
+    #gnb_service_lyr_iframe {
+        display: none !important;
+    }
+}
+
+@-moz-document url-prefix("https://cafe.naver.com") {
+    /* 카페 대문은 화이트로 고정이기 때문에, light를 사용합니다. */
+    .gate-box {
+        color-scheme: light;
+    }
+}
