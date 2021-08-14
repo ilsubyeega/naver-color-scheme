@@ -5,3 +5,9 @@
 
 ## 적용법
 DarkenPages/Naver-Dark를 설치 하신 이후, 다음 주소로 이동하셔서 설치하시면 됩니다.
+
+## 스크린샷
+![before1](./git/before.png)
+![after1](./git/after.png)
+![before2](./git/before2.png)
+![after2](./git/after2.png)
