@@ -4,7 +4,7 @@
 - color-scheme 변경 (black scrollbar)
 
 ## 적용법
-DarkenPages/Naver-Dark를 설치 하신 이후, 다음 주소로 이동하셔서 설치하시면 됩니다.
+DarkenPages/Naver-Dark를 설치 하신 이후, [다음 주소](https://github.com/ilsubyeega/naver-color-scheme/raw/main/naver-color-scheme.user.css)로 이동하셔서 설치하시면 됩니다.
 
 ## 스크린샷
 ![before1](./git/before.png)
