@@ -1,3 +1,6 @@
+Archived, use edge scrollbar to disable scrollbar etc.
+
+
 # naver-color-scheme
 [DarkenPages/Naver-Dark](https://github.com/DarkenPages/Naver-Dark) 를 위한 일부 트윅입니다.
 ## 기능들
